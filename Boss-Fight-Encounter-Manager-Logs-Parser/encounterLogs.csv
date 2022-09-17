@@ -1,0 +1,8 @@
+PlayerName,Role,DamageDealt,DamageReceived,HealingDone,HealingReceived,Attacks
+Aissen,DamageDealer,450,60,0,20,22
+Tchabs,DamageDealer,500,100,0,60,35
+Kunogi,DamageDealer,410,20,0,18,18
+Chopper,Healer,30,10,450,10,3
+Sully,Healer,10,0,240,0,1
+Ashyamaron,Tank,330,510,0,480,30
+Ashyamaron,Tank,300,320,0,290,27
